@@ -1,9 +1,14 @@
-###Name : RENTALA DHANUSH
-###Company : CODTECH IT SOLUTIONS
-###ID : CT08DS7187
-###Domain : PYTHON PROGRAMMING
-###Duration : SEPTEMBER TO OCTOBER 2024
-###Mentor : 
+Name : RENTALA DHANUSH
+
+Company : CODTECH IT SOLUTIONS
+
+ID : CT08DS7187
+
+Domain : PYTHON PROGRAMMING
+
+Duration : SEPTEMBER TO OCTOBER 2024
+
+Mentor : 
 
 ### Overview of the Library Management System
 
@@ -74,3 +79,6 @@ The **Library Management System** is a Python-based application designed to mana
 - **Multiple Categories**: Support for adding multiple categories or tags to each item for more precise searching.
 
 This Python-based **Library Management System** offers a simple yet functional approach to managing the core operations of a library, such as borrowing, returning, and tracking overdue items. It provides a good foundation for a more robust system with additional features and functionalities.
+
+### Output of the Project
+![Screenshot (51)](https://github.com/user-attachments/assets/3f2b6ae8-568c-4820-a135-dad3528f745e)
