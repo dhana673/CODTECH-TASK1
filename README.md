@@ -1,14 +1,9 @@
-Name : RENTALA DHANUSH
-
-Company : CODTECH IT SOLUTIONS
-
-ID : CT08DS7187
-
-Domain : PYTHON PROGRAMMING
-
-Duration : SEPTEMBER TO OCTOBER 2024
-
-Mentor : 
+###Name : RENTALA DHANUSH
+###Company : CODTECH IT SOLUTIONS
+###ID : CT08DS7187
+###Domain : PYTHON PROGRAMMING
+###Duration : SEPTEMBER TO OCTOBER 2024
+###Mentor : 
 
 ### Overview of the Library Management System
 
