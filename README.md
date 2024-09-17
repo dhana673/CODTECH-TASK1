@@ -8,7 +8,7 @@ Domain : PYTHON PROGRAMMING
 
 Duration : SEPTEMBER TO OCTOBER 2024
 
-Mentor : 
+Mentor : NEELA SANTHOSH KUMAR
 
 ### Overview of the Library Management System
 
